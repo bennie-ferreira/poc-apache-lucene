@@ -7,5 +7,5 @@
 # macOS and Linux
 source .venv/bin/activate
 
-
+na pasta frontend
 streamlit run app.py

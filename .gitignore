@@ -1,0 +1,37 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# VS Code settings (opcional, se você usa VS Code)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente (ex: dotenv)
+.env
+
+# Distribuição (para pacotes)
+build/
+dist/
+*.egg-info/
+
+# Testes com cobertura
+htmlcov/
+.coverage
+.cache
+.tox/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
